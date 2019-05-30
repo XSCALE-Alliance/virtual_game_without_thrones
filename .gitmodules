@@ -2,3 +2,6 @@
 	path = mods/skinsdb
 	url = https://github.com/minetest-mods/skinsdb.git
 	branch = master
+[submodule "mods/castle"]
+	path = mods/castle
+	url = https://github.com/minetest-mods/castle.git

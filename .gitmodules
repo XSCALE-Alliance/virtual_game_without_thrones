@@ -1,0 +1,4 @@
+[submodule "mods/skinsdb"]
+	path = mods/skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
+	branch = master
